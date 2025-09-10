@@ -5,7 +5,7 @@ Credit card fraud detection using machine learning on Kaggle dataset
 - Pandas, NumPy
 - scikit-learn
 - Jupyter Notebook
-- 
+  
 ## Credits
 This was my first machine learning project.
 
