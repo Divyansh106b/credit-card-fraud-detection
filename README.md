@@ -6,11 +6,7 @@ Credit card fraud detection using machine learning on Kaggle dataset
 - scikit-learn
 - Jupyter Notebook
 
-## Streamlit Web Application
-   A Streamlit-based web application was also developed for this project to demonstrate how the trained machine learning model can be used in an interactive environment.
-  
-  The application allows users to input transaction details and receive a prediction indicating whether the transaction is fraudulent or legitimate.
-  This helped me understand how machine learning models can be integrated into simple web applications.
+
   
 ## Credits
 This was my first machine learning project.
