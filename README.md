@@ -1,5 +1,6 @@
 # credit-card-fraud-detection
 Credit card fraud detection using machine learning on Kaggle dataset
+
 ## 🧰 Technologies Used
 - Python
 - Pandas, NumPy
@@ -19,4 +20,6 @@ Completing this project helped me reinforce my learning by applying the concepts
 
 Note: This repository is intended for educational purposes only.
 
-
+## 🚀 Deployment
+The project has also been deployed using **Streamlit** to create an interactive web application.  
+The Streamlit app allows users to input transaction details and check whether a transaction is predicted as **Legitimate** or **Fraudulent**.
